@@ -2,9 +2,11 @@
 
 
 ## Leaning Outcomes
-1) jsx
-2) component
-3) Props
+0) React: A JavaScript library for building modern user interfaces.
+1) jsx: jsx is React syntax that held to write codes like HTML in JavaScript.
+2) component: A component is a reusable piece of UI. It is usually created using a JavaScript function that returns JSX.
+3) Props: Props (short for "properties") are read-only inputs passed from a parent component to a child component in React, functioning similarly to function arguments. 
+
 
 
 Module-26 React with TypeScript Homework
