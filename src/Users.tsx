@@ -10,6 +10,7 @@ const users = [
     { name: 'Omar Sunny', isLoggedIn: true},
     { name: 'Salman Shah', isLoggedIn: false},
     { name: 'Ajay Debgon', isLoggedIn: true},
+    { name: 'Saliar Maa', isLoggedIn: true},
 
 ]
 
